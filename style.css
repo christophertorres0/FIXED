@@ -18,3 +18,9 @@ p{
 .center{
   text-align: center;
 }
+
+.tickets{
+  height:30vh;
+  width:60%;
+  body-background: white;
+}
