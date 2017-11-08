@@ -1,6 +1,7 @@
 body{
   background-color:grey;
 }
+
 .black{
   margin: auto;
   background-color: red;
@@ -23,7 +24,7 @@ p{
 }
 
 .tickets{
-  height:30vh;
+  height:40%;
   width:60%;
   body-background: white;
 }
