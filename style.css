@@ -45,6 +45,6 @@ p{
   background-color:green;
 }
 .tree{
-  height:calc(30%/3);
+  display:flex;
   background-color:purple;
 }
