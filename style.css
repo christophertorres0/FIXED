@@ -31,7 +31,6 @@ p{
 }
 
 .one{
-  margin:1px;
   height:calc(100/3px);
   background-color:purple;
 }
