@@ -39,3 +39,8 @@ p{
   height:calc(100%/3);
   background-color:purple;
 }
+
+.third{
+  height:calc(100%/3);
+  background-color:green;
+}
