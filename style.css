@@ -44,3 +44,7 @@ p{
   height:calc(100%/3);
   background-color:green;
 }
+.tree{
+  height:calc(30%/3);
+  background-color:purple;
+}
