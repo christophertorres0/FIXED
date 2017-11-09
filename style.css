@@ -31,6 +31,6 @@ p{
 }
 
 .one{
-  height:calc(100/3px);
-  background-color:purple;
+  height:33%;
+  background-color:red;
 }
